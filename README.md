@@ -2,6 +2,7 @@
 
 This is a simple Todo application built off Django including the Django REST Framework 
 
+#### this repo. only contains backed code.
 ## Requirements
 * Python3
 * Pipenv
