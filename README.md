@@ -16,3 +16,4 @@ This is a simple Todo application built off Django including the Django REST Fra
 6. Start django server ```./manage runserver```
 7. To create superuser ```./manage createsuperuser ```
 
+#### PS: For any Changes or Feature please raise a issue 
